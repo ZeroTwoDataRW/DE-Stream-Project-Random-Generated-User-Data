@@ -65,6 +65,8 @@ docker-compose up -d
 ```
 
 
+## Screenshots of Project Steps to Design
+
 ![installing_venv_python3](https://github.com/ZeroTwoDataRW/DE-Stream-Project-Random-Generated-User-Data/assets/163179337/8808fe10-abd8-4d10-a649-6cb73f271e14)
 
 ![checking_formated_data_results](https://github.com/ZeroTwoDataRW/DE-Stream-Project-Random-Generated-User-Data/assets/163179337/69ad894e-db71-4c27-8229-16b3f5f90264)
